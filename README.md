@@ -18,6 +18,9 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 
 
 ## Prototype:
+![IMG_8068](https://github.com/user-attachments/assets/e8666c90-0ad0-453f-9f69-004d688ec5fa)
+![IMG_8072](https://github.com/user-attachments/assets/b715d5a9-89ce-4895-95da-45b66f527150)
+![IMG_8074](https://github.com/user-attachments/assets/a64c5788-e2aa-43f2-bfa0-d86fa07c4985)
 
 
 ## Results:
