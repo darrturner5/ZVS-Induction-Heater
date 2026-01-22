@@ -24,7 +24,10 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 
 
 ## Results:
-
+-Stable at 8V (10V pushes CC Mode of 5A)
+-Heats small metals(Paperclips, Staples) to 278F
+-Capacitor and Coil Heating
+-Circuit hitting my Power Supply Current Limit
 
 ## What Id Improve:
 
