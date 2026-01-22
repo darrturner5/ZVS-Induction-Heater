@@ -22,12 +22,34 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 ![IMG_8072](https://github.com/user-attachments/assets/b715d5a9-89ce-4895-95da-45b66f527150)
 ![IMG_8074](https://github.com/user-attachments/assets/a64c5788-e2aa-43f2-bfa0-d86fa07c4985)
 
+## Work Coil Design Formulas
+-  Wheelers Formula for Air Core Inductors
+  <img width="176" height="55" alt="image" src="https://github.com/user-attachments/assets/6db39102-7615-4c9b-b643-c184b38d2eb5" />
+
+- Resonant Frequency Formula
+  <img width="135" height="56" alt="image" src="https://github.com/user-attachments/assets/8b3a7eba-a20a-4e10-aa3b-df35ab112dbb" />
+
+
+
 
 ## Results:
--Stable at 8V (10V pushes CC Mode of 5A)
--Heats small metals(Paperclips, Staples) to 278F
--Capacitor and Coil Heating
--Circuit hitting my Power Supply Current Limit
+- Stable at 8V (10V pushes CC Mode of 5A)
+- Heats small metals(Paperclips, Staples) to 278F+
+- Capacitor heating (caused by High AC Ripple Current)
+- Coil Heating
+- Circuit hitting my Power Supply Current Limit
+- Slightly Warm MOSFETS
+
+
+
+<img width="192" height="190" alt="image" src="https://github.com/user-attachments/assets/a3d28fa6-1d31-4afc-b0d7-5f89cbf222bf" />
+<img width="265" height="197" alt="image" src="https://github.com/user-attachments/assets/0ce54692-756a-467a-aa5b-919e04df8317" />
+
 
 ## What Id Improve:
+- Several Capacitors in Parallel In the LC Tank (5 - 10 distributes the AC Current)
+- Copper tubing coil with water cooling
+- Smaller Value Capacitors for higher Resonant Frequency (Faster Heating)
+- Better Power Supply 
+- Increase Choke Inductor Value and Current Rating (Slower Inrush Current, better buffering and isolation)
 
