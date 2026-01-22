@@ -13,7 +13,15 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 - 400 Ohm Resistors
 - IN4148 Switching diodes
 
-- ![IMG_8076](https://github.com/user-attachments/assets/359aa7f7-909d-4ca2-874c-bb3f3ef62451)
+![IMG_8076](https://github.com/user-attachments/assets/359aa7f7-909d-4ca2-874c-bb3f3ef62451)
+![IMG_8162](https://github.com/user-attachments/assets/99b04a6a-1b4b-41a9-86e7-6fea46f35c58)
 
-##
+
+## Prototype:
+
+
+## Results:
+
+
+## What Id Improve:
 
