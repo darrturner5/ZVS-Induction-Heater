@@ -25,6 +25,7 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 ## Work Coil Design Formulas
 -  Wheelers Formula for Air Core Inductors
   <img width="176" height="55" alt="image" src="https://github.com/user-attachments/assets/6db39102-7615-4c9b-b643-c184b38d2eb5" />
+  (Can Be rearranged to find Number of turns)
 
 - Resonant Frequency Formula
   <img width="135" height="56" alt="image" src="https://github.com/user-attachments/assets/8b3a7eba-a20a-4e10-aa3b-df35ab112dbb" />
