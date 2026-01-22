@@ -56,5 +56,5 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 - Copper tubing coil with water cooling
 - Smaller Value Capacitors for higher Resonant Frequency (Faster Heating)
 - Better Power Supply 
-- Increase Choke Inductor Value and Current Rating (Slower Inrush Current, better buffering and isolation)
+- Increase Choke Inductor Value and Current Rating (Slower Inrush Current, better buffering and isolation from the LC Tank)
 
