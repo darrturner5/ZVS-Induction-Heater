@@ -26,7 +26,7 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 -  Wheelers Formula for Air Core Inductors
   <img width="176" height="55" alt="image" src="https://github.com/user-attachments/assets/6db39102-7615-4c9b-b643-c184b38d2eb5" />
   
-  *Can be rearranged to find Number of turns if you have a set Inductance*
+  *Can be rearranged to find number of turns if you have a set inductance*
   ![IMG_8163](https://github.com/user-attachments/assets/4055de52-f478-40d5-ae83-edf8254e54e3)
 
   
