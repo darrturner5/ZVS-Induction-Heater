@@ -58,3 +58,7 @@ An Induction Heater is capable of heating and melting ferrous metals (Iron, Stee
 - Better Power Supply 
 - Increase Choke Inductor Value and Current Rating (Slower Inrush Current, better buffering and isolation from the LC Tank)
 
+## Demo
+
+https://www.youtube.com/watch?v=-2IZSkiKnAM
+
